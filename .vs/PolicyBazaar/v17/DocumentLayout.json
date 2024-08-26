@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Projects\\PolicyBazaar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D74011A-09A4-4658-B743-471E2C67F5D8}|PolicyBazaar\\PolicyBazaar.csproj|c:\\users\\user\\documents\\projects\\policybazaar\\policybazaar\\views\\index\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D74011A-09A4-4658-B743-471E2C67F5D8}|PolicyBazaar\\PolicyBazaar.csproj|solutionrelative:policybazaar\\views\\index\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D74011A-09A4-4658-B743-471E2C67F5D8}|PolicyBazaar\\PolicyBazaar.csproj|c:\\users\\user\\documents\\projects\\policybazaar\\policybazaar\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D74011A-09A4-4658-B743-471E2C67F5D8}|PolicyBazaar\\PolicyBazaar.csproj|solutionrelative:policybazaar\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D74011A-09A4-4658-B743-471E2C67F5D8}|PolicyBazaar\\PolicyBazaar.csproj|c:\\users\\user\\documents\\projects\\policybazaar\\policybazaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D74011A-09A4-4658-B743-471E2C67F5D8}|PolicyBazaar\\PolicyBazaar.csproj|solutionrelative:policybazaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D74011A-09A4-4658-B743-471E2C67F5D8}|PolicyBazaar\\PolicyBazaar.csproj|c:\\users\\user\\documents\\projects\\policybazaar\\policybazaar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D74011A-09A4-4658-B743-471E2C67F5D8}|PolicyBazaar\\PolicyBazaar.csproj|solutionrelative:policybazaar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D74011A-09A4-4658-B743-471E2C67F5D8}|PolicyBazaar\\PolicyBazaar.csproj|c:\\users\\user\\documents\\projects\\policybazaar\\policybazaar\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D74011A-09A4-4658-B743-471E2C67F5D8}|PolicyBazaar\\PolicyBazaar.csproj|solutionrelative:policybazaar\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\PolicyBazaar\\PolicyBazaar\\Views\\Index\\Index.cshtml",
+              "RelativeDocumentMoniker": "PolicyBazaar\\Views\\Index\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\PolicyBazaar\\PolicyBazaar\\Views\\Index\\Index.cshtml",
+              "RelativeToolTip": "PolicyBazaar\\Views\\Index\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T19:41:37.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\PolicyBazaar\\PolicyBazaar\\Program.cs",
+              "RelativeDocumentMoniker": "PolicyBazaar\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\PolicyBazaar\\PolicyBazaar\\Program.cs",
+              "RelativeToolTip": "PolicyBazaar\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:41:16.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\PolicyBazaar\\PolicyBazaar\\Controllers\\IndexController.cs",
+              "RelativeDocumentMoniker": "PolicyBazaar\\Controllers\\IndexController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\PolicyBazaar\\PolicyBazaar\\Controllers\\IndexController.cs",
+              "RelativeToolTip": "PolicyBazaar\\Controllers\\IndexController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:41:04.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\PolicyBazaar\\PolicyBazaar\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PolicyBazaar\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\PolicyBazaar\\PolicyBazaar\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PolicyBazaar\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:35:51.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\PolicyBazaar\\PolicyBazaar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PolicyBazaar\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\PolicyBazaar\\PolicyBazaar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PolicyBazaar\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwDYAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T18:37:06.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 912,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
